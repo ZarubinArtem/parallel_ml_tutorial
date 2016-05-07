@@ -1,3 +1,5 @@
+Also to see! https://www.youtube.com/watch?v=9Zag7uhjdYo
+
 # Parallel Machine Learning with scikit-learn and IPython
 
 
